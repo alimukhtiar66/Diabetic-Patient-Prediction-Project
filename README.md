@@ -1,2 +1,2 @@
 # Diabetic-Patient-Prediction-Project
-This project predicts the likelihood of diabetes in patients based on features like age, glucose levels, BMI, and blood pressure. It uses logistic regression to classify patients as diabetic or non-diabetic.
+This project predicts the likelihood of diabetes in patients based on features like age, glucose levels, BMI, and blood pressure. It uses logistic regression to classify patients as diabetic or non-diabetic. The repository includes tools for data preprocessing, feature selection, and model evaluation. Datasets can be imported from CSV file for training and testing. Perfect for exploring healthcare analytics and applying machine learning to real-world medical problems.
